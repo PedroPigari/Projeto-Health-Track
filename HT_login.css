@@ -1,0 +1,15 @@
+.imagem_login {
+  position: relative;
+  text-align: center;
+  color: white;
+  height:60%;
+}
+
+.centered {
+  color: white;
+  font-size: 30px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}

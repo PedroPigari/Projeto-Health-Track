@@ -1,0 +1,27 @@
+.container, .container-fluid {
+  background-color: gray;
+}
+
+
+header {
+  margin-bottom: 15px;
+  background-color: white;
+  border: 1px solid #c0c0c0;
+  font-size: 25px;
+  padding: 6px 0;
+  text-align: center;
+}
+
+.button {
+    border: 0px;
+    float: right;
+    background-color: white;
+    font-size: 20px;
+}
+
+.menu {
+  border: 0px;
+  float: left;
+  background-color: white;
+  font-size: 25px;
+}
